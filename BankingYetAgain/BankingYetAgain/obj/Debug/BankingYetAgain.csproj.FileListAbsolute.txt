@@ -1,0 +1,14 @@
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\bin\Debug\BankingYetAgain.exe.config
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\bin\Debug\BankingYetAgain.exe
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\bin\Debug\BankingYetAgain.pdb
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\bin\Debug\BankingData.dll
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\bin\Debug\BankingData.pdb
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.csproj.SuggestedBindingRedirects.cache
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.frmBanking.resources
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.Properties.Resources.resources
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.csproj.GenerateResource.cache
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.csproj.CopyComplete
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.exe
+C:\Users\922747\source\repos\BankingYetAgain\BankingYetAgain\obj\Debug\BankingYetAgain.pdb

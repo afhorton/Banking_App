@@ -1,0 +1,6 @@
+C:\Users\922747\source\repos\BankingYetAgain\BankingData\bin\Debug\BankingData.dll
+C:\Users\922747\source\repos\BankingYetAgain\BankingData\bin\Debug\BankingData.pdb
+C:\Users\922747\source\repos\BankingYetAgain\BankingData\obj\Debug\BankingData.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\BankingYetAgain\BankingData\obj\Debug\BankingData.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\BankingYetAgain\BankingData\obj\Debug\BankingData.dll
+C:\Users\922747\source\repos\BankingYetAgain\BankingData\obj\Debug\BankingData.pdb
